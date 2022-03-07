@@ -20,9 +20,9 @@
 		<jta>1.1</jta>
 		<beanutils>1.9.4</beanutils>
 		<xstream>1.4.8</xstream>
-		<pool>2.7.0</pool>
+		<pool>2.11.1</pool>
 		<lettuce>5.2.0.RELEASE</lettuce>
-		<jedis>3.1.0</jedis>
+		<jedis>3.8.0</jedis>
 		<multithreadedtc>1.01</multithreadedtc>
 		<netty>4.1.42.Final</netty>
 		<java-module-name>spring.data.redis</java-module-name>
