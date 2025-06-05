@@ -18,7 +18,7 @@
 	<properties>
 		<springdata.keyvalue>2.7.10</springdata.keyvalue>
 		<jta>1.1</jta>
-		<beanutils>1.9.4</beanutils>
+		<beanutils>1.11.0</beanutils>
 		<xstream>1.4.8</xstream>
 		<pool>2.11.1</pool>
 		<lettuce>6.2.0.RELEASE</lettuce>
